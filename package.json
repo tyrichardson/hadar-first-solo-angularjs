@@ -1,0 +1,26 @@
+{
+  "name": "hadar-first-solo-angularjs",
+  "version": "1.0.0",
+  "description": "Yes.",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.6.9",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyrichardson/hadar-first-solo-angularjs.git"
+  },
+  "keywords": [],
+  "author": "Ty Richardson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tyrichardson/hadar-first-solo-angularjs/issues"
+  },
+  "homepage": "https://github.com/tyrichardson/hadar-first-solo-angularjs#readme"
+}
